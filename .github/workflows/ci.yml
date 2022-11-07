@@ -24,6 +24,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - run: npm install -g stylelint
-      - run: npm install
-      - run: npm test
+      - name: Install stylelint
+        run: npm install -g stylelint
+
+      - name: Install dependencies
+        run: npm clean-install
+
+      - name: Run tests
+        run: npm test
