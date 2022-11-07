@@ -1,8 +1,8 @@
 {
-	"name": "wikimedia-ui-base",
+	"name": "gesinn-it-ui-base",
 	"version": "0.19.0",
-	"description": "Wikimedia Foundation user interface base variables (design tokens) stylesheet files",
-	"homepage": "https://www.mediawiki.org/wiki/Wikimedia_User_Interface",
+	"description": "gesinn.it MediaWiki basic user interface style values based on WikimediaUI Base.",
+	"homepage": "https://github.com/gesinn-it-pub/gesinn-it-ui-base",
 	"license": "MIT",
 	"keywords": [
 		"css",
@@ -12,7 +12,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://gerrit.wikimedia.org/g/wikimedia-ui-base/"
+		"url": "https://github.com/gesinn-it-pub/gesinn-it-ui-base/"
 	},
 	"scripts": {
 		"test": "npm -s run lint",
