@@ -1,6 +1,6 @@
 {
 	"name": "gesinn-it-ui-base",
-	"version": "0.19.1-4",
+	"version": "0.19.1-5",
 	"description": "gesinn.it MediaWiki basic user interface style values based on WikimediaUI Base.",
 	"homepage": "https://github.com/gesinn-it-pub/gesinn-it-ui-base",
 	"license": "MIT",
