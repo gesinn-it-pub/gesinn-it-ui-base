@@ -24,3 +24,7 @@ the variable later in your code.
 ```
 
 ## Release
+Login to npm, then
+```
+.prerelease
+```

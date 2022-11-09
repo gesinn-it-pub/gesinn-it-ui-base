@@ -50,8 +50,8 @@
 	--wmui-color-base90:   #f8f9fa; /* = HSB 210°, 1%, 98% */
 	--wmui-color-base100:  #fff;    /* = HSB 0°, 0%, 100% */
 
-	--wmui-color-accent30: #2a4b8d; /* = HSB 220°, 70%, 55% */
-	--wmui-color-accent50: #36c;    /* = HSB 220°, 75%, 80% */
+	--wmui-color-accent30: #2b566a; /* = HSB 220°, 70%, 55% */
+	--wmui-color-accent50: #39718b;    /* = HSB 220°, 75%, 80% */
 	--wmui-color-accent90: #eaf3ff; /* = HSB 214°, 8%, 100% */
 
 	--wmui-color-red30:    #b32424; /* = HSB 360°, 80%, 70% */
@@ -68,7 +68,7 @@
 
 	/* Modifier colors, not part of official palette, limited to interaction state usage. */
 	--wmui-color-base10--lighten: #404244;
-	--wmui-color-accent50--lighten: #447ff5; /* = `filter: brightness( 109% )` */
+	--wmui-color-accent50--lighten: #2b566a; /* = `filter: brightness( 109% )` */
 	--wmui-color-red50--lighten: #ff4242; /* ~= `filter: brightness( 120% )` */
 	--wmui-color-green50--lighten: #1c6665;
 	--wmui-color-purple50: #6b4ba1;
